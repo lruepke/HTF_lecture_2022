@@ -1,2 +1,2 @@
-# HTF_lecture_2022
- Star Lecture on HydrothermalFoam summer semester 2022
+# Hydrothermal flow modeling lecture 2022
+Repository for lecture on HydrothermalFoam at Kiel University, Germany.
